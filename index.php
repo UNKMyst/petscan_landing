@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Petscan: Safeguarding your Pets, One Scan at a Time!</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/jsjs?id=G-YRVPEE97JM"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YRVPEE97JM"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
