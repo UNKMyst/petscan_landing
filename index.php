@@ -118,12 +118,14 @@
                         </P>
                     </div>
                     <div class="col-12 pt-lg-5 pt-sm-0 pt-md-3 text-sm-center text-md-start text-lg-start point">
-                        <img class="img fluid" src="landingassets/amazon.png" alt="" style="max-width:50%">
+                        <img class="img fluid" src="landingassets/APKPURE.png" alt="" style="max-width:50%">
                     </div>
                 </div>
             </div>
             <div class="col d-none d-lg-block text-center align-self-center pt-2 block point"> <!-- Hide on small and medium devices -->
-                <img class="img img-fluid" src="landingassets/phone.png" alt="" style="max-width:75%">
+                <a href="https://apkpure.com/petscan/com.nexsus.petscan" target="_blank" class="text-decoration-none">
+                    <img class="img-fluid" src="landingassets/APKPURE.png" alt="Download on APKPure" style="max-width:50%">
+                </a>
             </div>
         </div>
     </div>
