@@ -118,7 +118,7 @@
                         </P>
                     </div>
                     <div class="col-12 pt-lg-5 pt-sm-0 pt-md-3 text-sm-center text-md-start text-lg-start point">
-                        <a href="https://apkpure.com/petscan" target="_blank" class="text-decoration-none">
+                        <a href="https://apkpure.com/petscan/com.nexsus.petscan" target="_blank" class="text-decoration-none">
                             <img class="img-fluid" src="landingassets/APKPURE.png" alt="Download on APKPure" style="max-width:50%">
                         </a>
                     </div>
