@@ -13,7 +13,12 @@
 
       gtag('config', 'G-YRVPEE97JM');
 
-      
+      // pageviews
+      gtag('event', 'Page-Views', {
+        'event_category': 'User',
+        'event_label': 'Landing Page',
+        'value': 1
+      });
     </script>
     <!-- End Global site tag (gtag.js) - Google Analytics -->
     <!-- Cloudflare Web Analytics -->
